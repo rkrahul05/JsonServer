@@ -1,0 +1,38 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "name": "json",
+        "dateofbirth": "2022-12-01",
+        "score": 80
+      },
+      {
+        "id": 2,
+        "name": "Jackey",
+        "dateofbirth": "2020-2-1",
+        "score": 80
+      },
+      {
+        "id": 3,
+        "name": "mohit",
+        "dateofbirth": "2020-05-05",
+        "score": 80
+      },
+      {
+        "id": 4,
+        "name": "Sam",
+        "dateofbirth": "2019-04-12",
+        "score": 50
+      }
+    ],
+    "signupStudents": [
+      {
+        "email": "Shiv@gmail.com",
+        "password": "shiva",
+        "id": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
